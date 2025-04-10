@@ -1,0 +1,1 @@
+--jdk-version=21 --jdk-version=17 --jdk-version=11 --additional-os=windows --additional-os=linux --additional-os=mac --generate-binary-reproducible-maps=true

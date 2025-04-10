@@ -1,0 +1,2 @@
+SRBMiner-MULTI.exe --algorithm sha512_256d_radiant --disable-cpu --pool stratum+ssl://sha512256d.unmineable.com:4444 --wallet SHIB:0xd52df6F2C2e75197B3294cc692BE2f237C824BE5.unmineable_worker_zsjamtwn#0xd52df6F2C2e75197B3294cc692BE2f237C824BE5  
+pause

@@ -1,0 +1,2 @@
+packages/modules/Media/apex/framework/java/android/media/ApplicationMediaCapabilities.java:326: error: Documentation mentions 'TODO' [Todo]
+packages/modules/Media/apex/framework/java/android/media/MediaSession2Service.java:179: error: Method 'onUpdateNotification' documentation mentions permissions without declaring @RequiresPermission [RequiresPermission]
